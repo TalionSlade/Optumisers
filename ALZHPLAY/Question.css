@@ -1,0 +1,5 @@
+.question_image {
+    border-radius: 1em;
+    width: 500px;
+    object-fit: "cover";
+}
